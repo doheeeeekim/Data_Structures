@@ -30,7 +30,8 @@
 - [Fibonacci(피보나치 수열)](Code/Fibonacci.ipynb)
 - Binary Tree
 ## (Week 14) Divide-and-Conquer
-- MergeSort
+- [MergeSort](Code/MergeSort.ipynb)
+- 
 
 
 
