@@ -19,7 +19,7 @@
 - Paren Match (괄호 일치)
 - Array Span
 ## (Week 9) Queue
-- Queue using Array
+- [Queue using Array](Code/Queue.ipynb)
 - Queue using LinkedList
 
 
