@@ -10,7 +10,7 @@
 ## (Week 4) Vector
 - [Vector (벡터 구현하기)](Code/MyVector.ipynb)
 ## (Week 5) List
-- List
+- [Node](Code/Node.ipynb)
 - [LinkedList](Code/LinkedList.ipynb)
 ## (Week 6) Stack
 - [Stack using List](Code/Stack.ipynb)
