@@ -21,7 +21,7 @@
 ## (Week 9) Queue
 - [Queue using Array](Code/Queue.ipynb)
 - Queue using LinkedList
-## (Week 10) 
+## (Week 10) MatrixCalc
 ## (Week 11) 
 ## (Week 12) 
 ## (Week 13) Fibonacci / Binary Tree
