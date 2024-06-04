@@ -5,7 +5,7 @@
 - [Array max(배열 최댓값 찾기)](Code/ArrayMax.ipynb)
 - [Prime Number(소수 구하기)](Code/PrimeNumber.ipynb)
 ## (Week 3) Prefix Average
-- [Prefix Average](Code/prefixAverage.ipynb)
+- [Prefix Average(누적 평균)](Code/prefixAverage.ipynb)
 - Prefix Average_linear
 ## (Week 4) Vector
 - Vector (벡터 구현하기)
