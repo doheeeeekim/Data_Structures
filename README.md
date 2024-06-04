@@ -21,8 +21,10 @@
 ## (Week 9) Queue
 - [Queue using Array](Code/Queue.ipynb)
 - Queue using LinkedList
-## (Week 10) MatrixCalc
-## (Week 11) Dijkstra
+## (Week 10) Matrix
+- [Matrix Calculator(MarkovProcess)](Code/MatrixCalc.ipynb)
+## (Week 11) Graph
+- [Dijkstra Algorithm](Code/Graph.ipynb)
 ## (Week 12) Recursion Practice (English Ruler, BinarySum)
 - [English Ruler](Code/EnglishRuler.ipynb)
 - [Binary Sum](Code/BinarySum.ipynb)
@@ -31,7 +33,6 @@
 - Binary Tree
 ## (Week 14) Divide-and-Conquer
 - [MergeSort](Code/MergeSort.ipynb)
-- 
 
 
 
