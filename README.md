@@ -25,7 +25,7 @@
 ## (Week 11) Dijkstra
 ## (Week 12) Recursion Practice (English Ruler, BinarySum)
 - [English Ruler](Code/EnglishRuler.ipynb)
-- Binary Sum
+- [Binary Sum](Code/BinarySum.ipynb)
 ## (Week 13) Fibonacci / Binary Tree
 - [Fibonacci(피보나치 수열)](Code/Fibonacci.ipynb)
 - Binary Tree
