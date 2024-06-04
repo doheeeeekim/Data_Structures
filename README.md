@@ -14,7 +14,7 @@
 - [LinkedList](Code/LinkedList.ipynb)
 ## (Week 6) Stack
 - Stack using List
-- Stack using LinkedList
+- [Stack using LinkedList](Code/LinkedLStack.ipynb)
 ## (Week 7) Stack practice (Paren Match, ArraySpan)
 - Paren Match (괄호 일치)
 - Array Span
