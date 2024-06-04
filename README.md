@@ -25,7 +25,7 @@
 ## (Week 11) 
 ## (Week 12) 
 ## (Week 13) Fibonacci / Binary Tree
-- [Fibonacci](Code/Fibonacci.ipynb)
+- [Fibonacci(피보나치 수열)](Code/Fibonacci.ipynb)
 - Binary Tree
 ## (Week 14) 
 
