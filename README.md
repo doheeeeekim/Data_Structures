@@ -6,7 +6,7 @@
 - [Prime Number(소수 구하기)](Code/PrimeNumber.ipynb)
 ## (Week 3) Prefix Average
 - [Prefix Average(누적 평균)](Code/prefixAverage.ipynb)
-- Prefix Average_linear
+- [Prefix Average_linear](Code/prefixAverage_linear.ipynb)
 ## (Week 4) Vector
 - Vector (벡터 구현하기)
 ## (Week 5) List
