@@ -17,7 +17,7 @@
 - [Stack using LinkedList](Code/LinkedLStack.ipynb)
 ## (Week 7) Stack practice (Paren Match, ArraySpan)
 - [Paren Match (괄호 일치)](Code/ParenMatch.ipynb)
-- Array Span
+- [Array Span](Code/ArraySpan.ipynb)
 ## (Week 9) Queue
 - [Queue using Array](Code/Queue.ipynb)
 - Queue using LinkedList
