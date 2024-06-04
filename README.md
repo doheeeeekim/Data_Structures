@@ -3,7 +3,7 @@
 
 ## (Week 2) Array max, Prime Number
 - [Array max(배열 최댓값 찾기)](Code/ArrayMax.ipynb)
-- Prime Number(소수 구하기)
+- [Prime Number(소수 구하기)](Code/PrimeNumber.ipynb)
 ## [(Week 3) Prefix Average](Code/Prefix_Average.ipynb)
 - Prefix Average
 - Prefix Average_linear
