@@ -22,8 +22,10 @@
 - [Queue using Array](Code/Queue.ipynb)
 - Queue using LinkedList
 ## (Week 10) MatrixCalc
-## (Week 11) 
-## (Week 12) 
+## (Week 11) Dijkstra
+## (Week 12) Recursion Practice (English Ruler, BinarySum)
+- English Ruler
+- Binary Sum
 ## (Week 13) Fibonacci / Binary Tree
 - [Fibonacci(피보나치 수열)](Code/Fibonacci.ipynb)
 - Binary Tree
